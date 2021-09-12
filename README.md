@@ -1,7 +1,7 @@
 ### Ola! 👋
 
 - 🔭 Atualmente estou a trabalhar em dev mobile flutter
-- 🌱 Atualmente estou aprendendo Flutter
+- 🌱 Estou disponiveis para conversar sobre flutter 
 - 📫 Podes entrar em contacto pelo email: loritosnare@gmail.com
 
 <!--
