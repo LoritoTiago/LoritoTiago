@@ -1,7 +1,7 @@
 Hi 👋, I'm Lorito<br>
 Passionate about mobile technology, always willing to learn, improve my skills, and share knowledge with other team members. I am committed to providing exceptional solutions in a constantly evolving field.
 
-- 🔭 I’m currently working on [MyBMW]([https://play.google.com/store/apps/details?id=co.didvacina.appvacinacao](https://play.google.com/store/apps/details?id=de.bmw.connected.mobile20.row&hl=pt_PT))
+- 🔭 I’m currently working on [MyBMW](https://play.google.com/store/apps/details?id=de.bmw.connected.mobile20.row&hl=pt_PT)
 
 - 📫 How to reach me **loritosnare@gmail.com**
 
